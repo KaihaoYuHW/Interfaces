@@ -2,7 +2,7 @@
 
 ## module diagram
 
-![vga_pic_module](https://github.com/KaihaoYuHW/Verilog_VGA/blob/main/doc/vga_pic_module.png)
+![vga_pic_module](https://github.com/KaihaoYuHW/Interfaces/blob/main/VGA/doc/vga_pic_module.png)
 
 ## signals
 
