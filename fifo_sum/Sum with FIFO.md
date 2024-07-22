@@ -8,21 +8,21 @@ We use Matlab to generate a txt file including data of a matrix. Then, it will b
 
 Three adjacent rows in a M*N matrix are summed to get a new matrix.
 
-![fifo_sum principle 2](E:\IC_design\Verilog\FPGA_S6\fifo_sum\doc\fifo_sum principle 2.png)
+![fifo_sum principle 2](https://github.com/KaihaoYuHW/Interfaces/blob/main/fifo_sum/doc/fifo_sum%20principle%202.png)
 
 Since the serial port can only pass single-byte at a time, it is necessary to use FIFO to store the input data to achieve multi-lines data summation.  We use two FIFOs for data caching, because this experiment is to sum 3 lines of data. 
 
- ![fifo_sum principle 1](E:\IC_design\Verilog\FPGA_S6\fifo_sum\doc\fifo_sum principle 1.png)
+![fifo_sum principle 1](https://github.com/KaihaoYuHW/Interfaces/blob/main/fifo_sum/doc/fifo_sum%20principle%201.png)
 
 ## Design
 
 The architecture is made of two parts. One is uart for transmitting data. The other one is FIFO for sum operation.
 
-![fifo_sum architecture](E:\IC_design\Verilog\FPGA_S6\fifo_sum\doc\fifo_sum architecture.png)
+![fifo_sum architecture](https://github.com/KaihaoYuHW/Interfaces/blob/main/fifo_sum/doc/fifo_sum%20architecture.png)
 
 ## Implementation
 
 After the program is downloaded, we use a serial port APP to send data to FPGA board, and then the APP receives the result of sum operation. As the figure shown below, the sum result is correct. 
 
-![serial port result](E:\IC_design\Verilog\FPGA_S6\fifo_sum\doc\serial port result.png)
+![serial port result](https://github.com/KaihaoYuHW/Interfaces/blob/main/fifo_sum/doc/serial%20port%20result.png)
 
