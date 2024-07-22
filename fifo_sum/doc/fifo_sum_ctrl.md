@@ -2,7 +2,7 @@
 
 ## module diagram
 
-![fifo_sum_ctrl_module](E:\IC_design\Verilog\FPGA_S6\fifo_sum\doc\fifo_sum_ctrl_module.png)
+![fifo_sum_ctrl_module](https://github.com/KaihaoYuHW/Interfaces/blob/main/fifo_sum/doc/fifo_sum_ctrl_module.png)
 
 ## signals
 
@@ -27,8 +27,8 @@
 
 We write the first row of a matrix into the fifo1, and the second row into the fifo2. When data of the third row is input into the module, we begin to do sum operation. 
 
-![fifo_sum_ctrl_waveform1](E:\IC_design\Verilog\FPGA_S6\fifo_sum\doc\fifo_sum_ctrl_waveform1.png)
+![fifo_sum_ctrl_waveform1](https://github.com/KaihaoYuHW/Interfaces/blob/main/fifo_sum/doc/fifo_sum_ctrl_waveform1.png)
 
 The sum result is correct. i.e. 1+1+1=3, 2+2+2=6, 3+3+3=9, 4+4+4=12, 5+5+5=15 ...
 
-![fifo_sum_ctrl_waveform2](E:\IC_design\Verilog\FPGA_S6\fifo_sum\doc\fifo_sum_ctrl_waveform2.png)
+![fifo_sum_ctrl_waveform2](https://github.com/KaihaoYuHW/Interfaces/blob/main/fifo_sum/doc/fifo_sum_ctrl_waveform2.png)
