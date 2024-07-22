@@ -1,2 +1,5 @@
 # Interfaces
-design different kinds of interfaces with Verilog
+Design different kinds of interfaces with Verilog
+
+- UART, rs232
+- VGA
