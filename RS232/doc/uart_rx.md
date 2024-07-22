@@ -2,7 +2,7 @@
 
 ## module diagram
 
-![](https://github.com/KaihaoYuHW/Verilog-RS232/blob/main/doc/uart_rx_module.png)
+![uart_rx_module](https://github.com/KaihaoYuHW/Interfaces/blob/main/RS232/doc/uart_rx_module.png)
 
 ## signals
 
@@ -25,5 +25,5 @@
 
 ## waveform
 
-![](https://github.com/KaihaoYuHW/Verilog-RS232/blob/main/doc/uart_rx_waveform.bmp)
+![uart_rx_waveform](https://github.com/KaihaoYuHW/Interfaces/blob/main/RS232/doc/uart_rx_waveform.bmp)
 
