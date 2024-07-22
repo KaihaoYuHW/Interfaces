@@ -10,6 +10,7 @@ Design different kinds of interfaces with Verilog
 
 ***
 
+## Contents
 - UART, rs232
 - VGA
 - Sum with FIFO
