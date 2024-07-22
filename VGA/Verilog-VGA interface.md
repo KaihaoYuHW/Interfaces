@@ -11,13 +11,13 @@ VGA uses RGB (red, green and blue) mode, which refers to a system representing t
 
 ## VGA connector
 
-![VGA-connector-port](https://github.com/KaihaoYuHW/Verilog_VGA/blob/main/doc/VGA-connector-port.png)
+![VGA-connector-port](https://github.com/KaihaoYuHW/Interfaces/blob/main/VGA/doc/VGA-connector-port.png)
 
 Here Pin_1 RED, Pin_2 GREEN, Pin_3 BLUE are the channels for transmitting three colors. These three pins transmit analog signals. Pin_13 is horizontal sync. Pin_14 is vertical sync. 
 
 ## Principle
 
-![VGA scanning principle](https://github.com/KaihaoYuHW/Verilog_VGA/blob/main/doc/VGA%20scanning%20principle.png)
+![VGA scanning principle](https://github.com/KaihaoYuHW/Interfaces/blob/main/VGA/doc/VGA%20scanning%20principle.pngg)
 
 1. With the synchronisation of Hsync and Vsync, we scan to the first pixel in the upper left corner. 
 2. From the first pixel in the first row, we scan each pixel one by one.
@@ -28,7 +28,7 @@ Each pixel is individually assigned a value during the scanning process so that 
 
 ## VGA industry standard timing
 
-![VGA industry standard timing](https://github.com/KaihaoYuHW/Verilog_VGA/blob/main/doc/VGA%20industry%20standard%20timing.png)
+![VGA industry standard timing](https://github.com/KaihaoYuHW/Interfaces/blob/main/VGA/doc/VGA%20industry%20standard%20timing.png)
 
 In HSync, the period from the rising edge to the next rising edge called a line cycle. The unit in HSync is pixel clock (divided by system clock). One pixel is scanned in every pixel clock cycle. In a complete line cycle of HSync, a row of a frame is completely scanned. The video image is only valid in the "Addressable" Video phase, and invalid in other phases. 
 
