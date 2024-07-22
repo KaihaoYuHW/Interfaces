@@ -2,7 +2,7 @@
 
 ## module diagram
 
-![vga_ctrl_module](https://github.com/KaihaoYuHW/Verilog_VGA/blob/main/doc/vga_ctrl_module.png)
+![vga_ctrl_module](https://github.com/KaihaoYuHW/Interfaces/blob/main/VGA/doc/vga_ctrl_module.png)
 
 ## signals
 
