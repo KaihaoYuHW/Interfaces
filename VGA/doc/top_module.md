@@ -2,7 +2,7 @@
 
 ## module diagram
 
-![top_module](https://github.com/KaihaoYuHW/Verilog_VGA/blob/main/doc/top_module.png)
+![top_module](https://github.com/KaihaoYuHW/Interfaces/blob/main/VGA/doc/top_module.png)
 
 ## module description
 
