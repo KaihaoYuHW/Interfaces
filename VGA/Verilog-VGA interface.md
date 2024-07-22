@@ -17,7 +17,7 @@ Here Pin_1 RED, Pin_2 GREEN, Pin_3 BLUE are the channels for transmitting three 
 
 ## Principle
 
-![VGA scanning principle](https://github.com/KaihaoYuHW/Interfaces/blob/main/VGA/doc/VGA%20scanning%20principle.pngg)
+![VGA scanning principle](https://github.com/KaihaoYuHW/Interfaces/blob/main/VGA/doc/VGA%20scanning%20principle.png)
 
 1. With the synchronisation of Hsync and Vsync, we scan to the first pixel in the upper left corner. 
 2. From the first pixel in the first row, we scan each pixel one by one.
