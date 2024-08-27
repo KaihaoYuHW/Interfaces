@@ -16,7 +16,7 @@ Its physical layer has the following characteristics:
 4. The bus is connected to the power supply through a pull-up resistor. When the I2C device is IDLE, it will output high resistance. 
 5. When multiple hosts use a bus at the same time, we determine which device works on the bus by arbitration in order to prevent data conflicts. 
 
-![I2C connection](E:\IC_design\Verilog\FPGA_S6\eeprom_byte_rd_wr\doc\I2C connection.png)
+![I2C connection](https://github.com/KaihaoYuHW/Interfaces/blob/main/eeprom_byte_rd_wr/doc/I2C%20connection.png)
 
 The wave diagram of I2C protocol includes four parts.
 
@@ -25,23 +25,23 @@ The wave diagram of I2C protocol includes four parts.
 3. ③ is "read/write state". In this state, the host writes instructions or data to the slave. Only one bit is written at a time. Data will be changed on SDA line when SCL is low. Data will be stayed on SDA line when SCL is high. If the slave receives data successfully, SDA will be low to send a response signal (1 bit) back. After that, we can end or start to transfer the next instruction or data. 
 4. ④ is "stop state". After we finish reading or writing data, SCL becomes high. When SDA generates a rising edge which indicates a stop signal, I2C bus goes back to "idle state". 
 
-![I2C diagram](E:\IC_design\Verilog\FPGA_S6\eeprom_byte_rd_wr\doc\I2C wave diagram.png)
+![I2C diagram](https://github.com/KaihaoYuHW/Interfaces/blob/main/eeprom_byte_rd_wr/doc/I2C%20wave%20diagram.png)
 
 ## Principle
 
 - single byte writing operation
 
-![single byte writing operation](E:\IC_design\Verilog\FPGA_S6\eeprom_byte_rd_wr\doc\single byte write operation.png)
+![single byte writing operation](https://github.com/KaihaoYuHW/Interfaces/blob/main/eeprom_byte_rd_wr/doc/single%20byte%20write%20operation.png)
 
 - single byte reading operation
 
-![single byte reading operation](E:\IC_design\Verilog\FPGA_S6\eeprom_byte_rd_wr\doc\single byte read operation.png)
+![single byte reading operation](https://github.com/KaihaoYuHW/Interfaces/blob/main/eeprom_byte_rd_wr/doc/single%20byte%20read%20operation.png)
 
 ## Design
 
 The architecture is made of data generator module and a I2C driver.
 
-![eeprom_byte_rd_wr](E:\IC_design\Verilog\FPGA_S6\eeprom_byte_rd_wr\doc\eeprom_byte_rd_wr_architecture.png)
+![eeprom_byte_rd_wr](https://github.com/KaihaoYuHW/Interfaces/blob/main/eeprom_byte_rd_wr/doc/eeprom_byte_rd_wr_architecture.png)
 
 ## Implementation
 
