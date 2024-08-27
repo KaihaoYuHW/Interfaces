@@ -2,7 +2,7 @@
 
 ## module diagram
 
-![i2c_ctrl_module](E:\IC_design\Verilog\FPGA_S6\eeprom_byte_rd_wr\doc\i2c_ctrl_module.png)
+![i2c_ctrl_module](https://github.com/KaihaoYuHW/Interfaces/blob/main/eeprom_byte_rd_wr/doc/i2c_ctrl_module.png)
 
 ## signals
 
@@ -30,19 +30,19 @@
 
 ## waveform
 
-![i2c_ctrl_wave diagram_1](E:\IC_design\Verilog\FPGA_S6\eeprom_byte_rd_wr\doc\i2c_ctrl_wave diagram_1.bmp)
+![i2c_ctrl_wave diagram_1](https://github.com/KaihaoYuHW/Interfaces/blob/main/eeprom_byte_rd_wr/doc/i2c_ctrl_wave%20diagram_1.bmp)
 
-![i2c_ctrl_wave diagram_2](E:\IC_design\Verilog\FPGA_S6\eeprom_byte_rd_wr\doc\i2c_ctrl_wave diagram_2.bmp)
+![i2c_ctrl_wave diagram_2](https://github.com/KaihaoYuHW/Interfaces/blob/main/eeprom_byte_rd_wr/doc/i2c_ctrl_wave%20diagram_2.bmp)
 
-![i2c_ctrl_wave diagram_3](E:\IC_design\Verilog\FPGA_S6\eeprom_byte_rd_wr\doc\i2c_ctrl_wave diagram_3.bmp)
+![i2c_ctrl_wave diagram_3](https://github.com/KaihaoYuHW/Interfaces/blob/main/eeprom_byte_rd_wr/doc/i2c_ctrl_wave%20diagram_3.bmp)
 
-![i2c_ctrl_wave diagram_4](E:\IC_design\Verilog\FPGA_S6\eeprom_byte_rd_wr\doc\i2c_ctrl_wave diagram_4.bmp)
+![i2c_ctrl_wave diagram_4](https://github.com/KaihaoYuHW/Interfaces/blob/main/eeprom_byte_rd_wr/doc/i2c_ctrl_wave%20diagram_4.bmp)
 
-![i2c_ctrl_wave diagram_5](E:\IC_design\Verilog\FPGA_S6\eeprom_byte_rd_wr\doc\i2c_ctrl_wave diagram_5.bmp)
+![i2c_ctrl_wave diagram_5](https://github.com/KaihaoYuHW/Interfaces/blob/main/eeprom_byte_rd_wr/doc/i2c_ctrl_wave%20diagram_5.bmp)
 
-![i2c_ctrl_wave diagram_6](E:\IC_design\Verilog\FPGA_S6\eeprom_byte_rd_wr\doc\i2c_ctrl_wave diagram_6.bmp)
+![i2c_ctrl_wave diagram_6](https://github.com/KaihaoYuHW/Interfaces/blob/main/eeprom_byte_rd_wr/doc/i2c_ctrl_wave%20diagram_6.bmp)
 
-![i2c_ctrl_wave diagram_7](E:\IC_design\Verilog\FPGA_S6\eeprom_byte_rd_wr\doc\i2c_ctrl_wave diagram_7.bmp)
+![i2c_ctrl_wave diagram_7](https://github.com/KaihaoYuHW/Interfaces/blob/main/eeprom_byte_rd_wr/doc/i2c_ctrl_wave%20diagram_7.bmp)
 
-![i2c_ctrl_wave diagram_8](E:\IC_design\Verilog\FPGA_S6\eeprom_byte_rd_wr\doc\i2c_ctrl_wave diagram_8.bmp)
+![i2c_ctrl_wave diagram_8](https://github.com/KaihaoYuHW/Interfaces/blob/main/eeprom_byte_rd_wr/doc/i2c_ctrl_wave%20diagram_8.bmp)
 
