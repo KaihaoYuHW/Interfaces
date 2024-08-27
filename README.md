@@ -15,3 +15,4 @@ Design different kinds of interfaces with Verilog
 - VGA
 - Sum with FIFO
 - SPI Flash Driver
+- I2C EEPROM Driver
