@@ -47,4 +47,4 @@ The architecture is made of data generator module and a I2C driver.
 
 We press KEY_1 to write number 1 to 10 into EEPROM first. Next, we press KEY_2 to read data stored in EEPROM and show them on 7 segment display. 
 
-![implementation](https://www.youtube.com/shorts/XWyjs-juiXM)
+[![implementation](https://github.com/KaihaoYuHW/Interfaces/blob/main/eeprom_byte_rd_wr/doc/implementation%20of%20i2c%20EEPROM%20Driver.jpg)](https://www.youtube.com/shorts/XWyjs-juiXM)
