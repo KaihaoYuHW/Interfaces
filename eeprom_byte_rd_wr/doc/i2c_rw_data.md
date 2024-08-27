@@ -2,7 +2,7 @@
 
 ## module diagram
 
-![i2c_rw_data_module](E:\IC_design\Verilog\FPGA_S6\eeprom_byte_rd_wr\doc\i2c_rw_data_module.png)
+![i2c_rw_data_module](https://github.com/KaihaoYuHW/Interfaces/blob/main/eeprom_byte_rd_wr/doc/i2c_rw_data_module.png)
 
 ## signals
 
@@ -29,8 +29,8 @@
 
 ## waveform
 
-![i2c_rw_data_wave diagram_1](E:\IC_design\Verilog\FPGA_S6\eeprom_byte_rd_wr\doc\i2c_rw_data_wave diagram_1.bmp)
+![i2c_rw_data_wave diagram_1](https://github.com/KaihaoYuHW/Interfaces/blob/main/eeprom_byte_rd_wr/doc/i2c_rw_data_wave%20diagram_1.bmp)
 
-![i2c_rw_data_wave diagram_2](E:\IC_design\Verilog\FPGA_S6\eeprom_byte_rd_wr\doc\i2c_rw_data_wave diagram_2.bmp)
+![i2c_rw_data_wave diagram_2](https://github.com/KaihaoYuHW/Interfaces/blob/main/eeprom_byte_rd_wr/doc/i2c_rw_data_wave%20diagram_2.bmp)
 
-![i2c_rw_data_wave diagram_3](E:\IC_design\Verilog\FPGA_S6\eeprom_byte_rd_wr\doc\i2c_rw_data_wave diagram_3.bmp)
+![i2c_rw_data_wave diagram_3](https://github.com/KaihaoYuHW/Interfaces/blob/main/eeprom_byte_rd_wr/doc/i2c_rw_data_wave%20diagram_3.bmp)
