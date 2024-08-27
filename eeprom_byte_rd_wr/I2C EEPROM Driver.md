@@ -46,3 +46,5 @@ The architecture is made of data generator module and a I2C driver.
 ## Implementation
 
 We press KEY_1 to write number 1 to 10 into EEPROM first. Next, we press KEY_2 to read data stored in EEPROM and show them on 7 segment display. 
+
+<video src="https://youtube.com/shorts/XWyjs-juiXM?feature=share"></video>
